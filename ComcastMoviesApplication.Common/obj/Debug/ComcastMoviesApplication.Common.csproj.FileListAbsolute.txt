@@ -1,0 +1,11 @@
+C:\Users\Dinkar\source\repos\ComcastMoviesApplication\ComcastMoviesApplication.Common\bin\Debug\ComcastMoviesApplication.Common.dll
+C:\Users\Dinkar\source\repos\ComcastMoviesApplication\ComcastMoviesApplication.Common\bin\Debug\ComcastMoviesApplication.Common.pdb
+C:\Users\Dinkar\source\repos\ComcastMoviesApplication\ComcastMoviesApplication.Common\bin\Debug\ComcastMovieApplicationDbModel.dll
+C:\Users\Dinkar\source\repos\ComcastMoviesApplication\ComcastMoviesApplication.Common\bin\Debug\EntityFramework.dll
+C:\Users\Dinkar\source\repos\ComcastMoviesApplication\ComcastMoviesApplication.Common\bin\Debug\ComcastMovieApplicationDbModel.pdb
+C:\Users\Dinkar\source\repos\ComcastMoviesApplication\ComcastMoviesApplication.Common\bin\Debug\EntityFramework.xml
+C:\Users\Dinkar\source\repos\ComcastMoviesApplication\ComcastMoviesApplication.Common\obj\Debug\ComcastMoviesApplication.Common.csprojAssemblyReference.cache
+C:\Users\Dinkar\source\repos\ComcastMoviesApplication\ComcastMoviesApplication.Common\obj\Debug\ComcastMoviesApplication.Common.csproj.CoreCompileInputs.cache
+C:\Users\Dinkar\source\repos\ComcastMoviesApplication\ComcastMoviesApplication.Common\obj\Debug\ComcastMoviesApplication.Common.csproj.CopyComplete
+C:\Users\Dinkar\source\repos\ComcastMoviesApplication\ComcastMoviesApplication.Common\obj\Debug\ComcastMoviesApplication.Common.dll
+C:\Users\Dinkar\source\repos\ComcastMoviesApplication\ComcastMoviesApplication.Common\obj\Debug\ComcastMoviesApplication.Common.pdb

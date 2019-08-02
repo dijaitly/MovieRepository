@@ -1,0 +1,14 @@
+C:\Users\Dinkar\source\repos\ComcastMoviesApplication\ComcastMovieApplicationDbModel\obj\Debug\ComcastMovieApplicationDbModel.csproj.CoreCompileInputs.cache
+C:\Users\Dinkar\source\repos\ComcastMoviesApplication\ComcastMovieApplicationDbModel\bin\Debug\ComcastMovieApplicationDbModel.dll
+C:\Users\Dinkar\source\repos\ComcastMoviesApplication\ComcastMovieApplicationDbModel\bin\Debug\ComcastMovieApplicationDbModel.pdb
+C:\Users\Dinkar\source\repos\ComcastMoviesApplication\ComcastMovieApplicationDbModel\bin\Debug\EntityFramework.dll
+C:\Users\Dinkar\source\repos\ComcastMoviesApplication\ComcastMovieApplicationDbModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dinkar\source\repos\ComcastMoviesApplication\ComcastMovieApplicationDbModel\bin\Debug\EntityFramework.xml
+C:\Users\Dinkar\source\repos\ComcastMoviesApplication\ComcastMovieApplicationDbModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dinkar\source\repos\ComcastMoviesApplication\ComcastMovieApplicationDbModel\obj\Debug\ComcastMovieApplicationDbModel.csproj.CopyComplete
+C:\Users\Dinkar\source\repos\ComcastMoviesApplication\ComcastMovieApplicationDbModel\obj\Debug\ComcastMovieApplicationDbModel.dll
+C:\Users\Dinkar\source\repos\ComcastMoviesApplication\ComcastMovieApplicationDbModel\obj\Debug\ComcastMovieApplicationDbModel.pdb
+C:\Users\Dinkar\source\repos\ComcastMoviesApplication\ComcastMovieApplicationDbModel\obj\Debug\ComcastMovieApplicationDbModel.Migrations.Initial.resources
+C:\Users\Dinkar\source\repos\ComcastMoviesApplication\ComcastMovieApplicationDbModel\obj\Debug\ComcastMovieApplicationDbModel.csproj.GenerateResource.cache
+C:\Users\Dinkar\source\repos\ComcastMoviesApplication\ComcastMovieApplicationDbModel\obj\Debug\ComcastMovieApplicationDbModel.Migrations.ChangesInSchema.resources
+C:\Users\Dinkar\source\repos\ComcastMoviesApplication\ComcastMovieApplicationDbModel\obj\Debug\ComcastMovieApplicationDbModel.csprojAssemblyReference.cache
